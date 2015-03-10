@@ -9,3 +9,6 @@ DateField:
 
 GDBackend:
   default_quality: 90
+
+UserPreviewPreference:
+  DefaultMode: "content"

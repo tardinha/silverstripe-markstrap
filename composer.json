@@ -20,14 +20,19 @@
     "silverstripe/versionedfiles": "~1.0",
     "silverstripe/listingpage": "~1.0",
 
+		"silverstripe/googlesitemaps": "1.2.2",
+
     "tractorcow/silverstripe-opengraph": "3.1.0",
     "tractorcow/silverstripe-robots": "dev-master",
 
-    "sheadawson/silverstripe-blocks": "~1.0",
     "sheadawson/silverstripe-linkable": "~1.0",
     "sheadawson/silverstripe-zen-googleanalytics": "dev-master",
     "sheadawson/silverstripe-editlock": "1.0.0",
     "sheadawson/silverstripe-shortcodable": "0.1.1",
+    "sheadawson/silverstripe-blocks": "~1.0",
+
+    "unisolutions/silverstripe-copybutton": "1.0.0",
+    "micschk/silverstripe-gridfieldsitetreebuttons": "1.0",
 
     "jonom/focuspoint": "1.1.0",
     "jonom/silverstripe-tinytidy": "dev-master",
