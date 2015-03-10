@@ -40,9 +40,9 @@
 
     "webbuilders-group/silverstripe-cmspreviewpreference": "dev-master#8c6d8565a3f2124ebd110749244bd12184f6f6d5",
 
-    "kinglozzer/htmleditoruploadfield": "1.0.0"
+    "kinglozzer/htmleditoruploadfield": "1.0.0",
 
-    "adrexia/batchactionsplus": "1.0.6",
+    "adrexia/batchactionsplus": "1.0.6"
 
   },
 	"extra": {
