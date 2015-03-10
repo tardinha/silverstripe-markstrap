@@ -1,0 +1,24 @@
+{
+  "name": "tardinha/markstrap",
+  "description": "A bunch of stuff I like",
+  "type": "silverstripe-module",
+  "keywords": ["silverstripe"],
+  "homepage": "https://github.com/tardinha/silverstripe-markstrap",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+			"name": "Mark Taylor",
+			"email": "tardinha@gmail.com",
+			"homepage": "http://tardinha.com"
+    }
+  ],
+  "require":
+  {
+    "silverstripe/framework": "~3.1",
+    "silverstripe/cms": "~3.1"
+  },
+	"extra": {
+		"installer-name": "markstrap"
+	},
+	"minimum-stability": "dev"
+}

@@ -1,4 +1,2 @@
-silverstripe-markstrap
-======================
-
-Some kind of theme...
+#Markstrap
+A bunch of stuff I like

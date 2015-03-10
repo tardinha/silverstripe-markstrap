@@ -1,0 +1,11 @@
+---
+Name: markstrapconfig
+After: 'framework/*','cms/*'
+---
+
+DateField:
+  default_config:
+    showcalendar: true
+
+GDBackend:
+  default_quality: 90
